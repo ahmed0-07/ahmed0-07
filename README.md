@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWtvODY5bjUzdHFxNnR6ZXh4eXI0NDhncGpmeXVkN3E3MXJmb2NhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oXnN2TNSgfJQI/giphy.gif" width="300" alt="Smart Spider-Man thinking"/>
 
-3rd year Computer Engineering student at **Mansoura University**  
-Specialist on [Codeforces](https://codeforces.com/profile/ahmed-07)  
-Technical Head at **ICPC Mansoura Community**  
+- 3rd year Computer Engineering student at **Mansoura University**  
+- Specialist on [Codeforces](https://codeforces.com/profile/ahmed-07)  
+- Technical Head at **ICPC Mansoura Community**  
 
 ---
 
