@@ -1,4 +1,6 @@
-# Hi there 🕸️, I'm Ahmed  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hi+there+🕸️,+I'm+Ahmed" alt="Typing SVG" />
+</p>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWtvODY5bjUzdHFxNnR6ZXh4eXI0NDhncGpmeXVkN3E3MXJmb2NhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oXnN2TNSgfJQI/giphy.gif" width="300" alt="Smart Spider-Man thinking"/>
 
