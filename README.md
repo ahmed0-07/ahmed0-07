@@ -8,7 +8,7 @@
 
 ## About me
 - 3rd year Computer Engineering student at **Mansoura University**  
-- Specialist on [Codeforces](https://codeforces.com/profile/ahmed-07)  
+- Expert on [Codeforces](https://codeforces.com/profile/ahmed-07)  
 - Technical Head at **ICPC Mansoura Community**  
 
 ---
